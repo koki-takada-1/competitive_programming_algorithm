@@ -19,7 +19,7 @@
    
    https://atcoder.jp/contests/abc208/tasks/abc208_b
    
-  
+   [解答例 C++](/ari_42.cpp)
 
 
 
