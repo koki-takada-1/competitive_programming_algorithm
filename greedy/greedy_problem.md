@@ -13,13 +13,13 @@
    $$ 0 \le A \le 10^9 $$
     
     
-   [解答例 C++](/abc208_b.cpp)
+   [解答例 C++](/greedy/abc208_b.cpp)
     
 ### 2. AtCoder Beginner Contest 208 B - Factorial Yen Coin 
    
    https://atcoder.jp/contests/abc208/tasks/abc208_b
    
-   [解答例 C++](/ari_42.cpp)
+   [解答例 C++](/greedy/ari_42.cpp)
 
 
 
